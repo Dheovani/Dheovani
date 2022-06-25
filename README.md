@@ -34,6 +34,13 @@
 </div>
 
 <div><br>
+  <img align="center" alt="linux" height="50" width="60"
+       src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="windows" height="50" width="60"
+       src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+</div>
+
+<div><br>
   <a href="https://www.linkedin.com/in/dheovani-xavier-2832a31b9" target="_blank" rel="nofollow">
     <img id="linkedin" target="_blank" alt="linkedin_icon"
          src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
