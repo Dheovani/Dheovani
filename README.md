@@ -46,11 +46,6 @@
          src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://t.me/The_ovani" target="_blank" rel="nofollow">
-    <img id="telegram" target="_blank" alt="telegram_icon"
-         src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  
   <a href="https://instagram.com/the_ovani?utm_medium=copy_link" target="_blank" rel="nofollow">
     <img id="instagram" target="_blank" alt="instagram_icon"
          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
