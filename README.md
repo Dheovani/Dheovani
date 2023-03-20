@@ -9,24 +9,18 @@
 </div>
 
 <div style="display: inline_block;"><br>
-  <img align="center" alt="bash" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="ecmascript" height="50" width="60"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react_js" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="node_js" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="java" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="c" height="50" width="60"
+       src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="cplusplus" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
-  <img align="center" alt="html_5" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="css_3" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="python" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" alt="php" height="70" width="80"
