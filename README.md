@@ -10,9 +10,11 @@
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="ecmascript" height="50" width="60"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="react_js" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="electron_js" height="50" width="60"
+       src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
   <img align="center" alt="java" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="50" width="60"
