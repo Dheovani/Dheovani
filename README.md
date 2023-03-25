@@ -42,16 +42,6 @@
          src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://instagram.com/the_ovani?utm_medium=copy_link" target="_blank" rel="nofollow">
-    <img id="instagram" target="_blank" alt="instagram_icon"
-         src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="mailto:ag.dhoxdc@gmail.com">
-    <img id="gmail" target="_blank" alt="gmail_icon"
-         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
   <a href="mailto:dheovani_xavier@outlook.com" target="_blank" rel="nofollow">
     <img id="outlook" target="_blank" alt="outlook_icon"
          src="https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
