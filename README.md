@@ -25,12 +25,10 @@
        src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="python" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
-  <!-- Adicionar quando eu terminar de criar o repositório
     <img align="center" alt="php" height="70" width="80"
        src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
     <img align="center" alt="laravel" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  -->
 </div>
 
 <div><br>
