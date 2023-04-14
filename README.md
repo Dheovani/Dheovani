@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-electron-47848F?labelColor=black&style=for-the-badge&logo=electron&logoColor=47848F" alt="electron" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-java-F80000?labelColor=black&style=for-the-badge&logo=oracle&logoColor=F80000" alt="java" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-springboot-6DB33F?labelColor=black&style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-cplusplus-00599C?labelColor=black&style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-php-777BB4?labelColor=black&style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-laravel-FF2D20?labelColor=black&style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel" />
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/-html%205-E34F26?labelColor=black&style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML 5" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-css%203-1572B6?labelColor=black&style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS 3" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-python-3776AB?labelColor=black&style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
