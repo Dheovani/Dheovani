@@ -29,6 +29,8 @@
        src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
     <img align="center" alt="laravel" height="50" width="60"
        src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="git" height="50" width="60"
+       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 <div><br>
