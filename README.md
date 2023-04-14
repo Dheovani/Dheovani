@@ -26,7 +26,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/java-black?style=for-the-badge" alt="java" />
+  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000" alt="java" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
