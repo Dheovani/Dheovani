@@ -1,6 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!&color=FFFFFF&repeat=false)](https://git.io/typing-svg)
-
-![programmer](https://user-images.githubusercontent.com/79609196/232044491-55ac84ee-3edd-4250-9050-628d53b52511.gif)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=FFFFFF&repeat=false)](https://git.io/typing-svg)
 
 <br>
 
@@ -58,27 +56,22 @@
 
 <br>
 
-<div>
-  <h2>👊 Sobre mim</h2>
-  <ul>
-    <li>👶 31/05/2001</li>
-    <li>✝️ Cristão</li>
-    <li>🎓 Bacharel em Enganharia de Software - UNIVILLE</li>
-    <li>👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert</li>
-    <li>🎮 Aspirante a Game Developer</li>
-    <li>🏅 Estudante Embaixador da Microsoft</li>
-    <li>🤓 Estudante de filosofia e economia</li>
-    <li>🏀 Apaixonado por esportes</li>
-  </ul>
-</div>
+## 👊 Sobre mim
+- 👶 31/05/2001
+- ✝️ Cristão
+- 🎓 Bacharel em Enganharia de Software - UNIVILLE
+- 👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert
+- 🎮 Aspirante a Game Developer
+- 🏅 Estudante Embaixador da Microsoft
+- 🤓 Estudante de filosofia e economia
+- 🏀 Apaixonado por esportes
 
-<div>
-  <h2>📖 Lendo</h2>
-  <ul>
-    <li>📑 The Theory Of Money And Credit ~ Ludwig Von Mises</li>
-    <li>📑 A Bíblia Sagrada</li>
-  </ul>
-</div>
+## 📖 Lendo
+- 📑 The Theory Of Money And Credit ~ Ludwig Von Mises
+- 📑 A Bíblia Sagrada
+
+## 🎧 Ouvindo
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dheovanixdc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
