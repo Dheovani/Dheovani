@@ -56,7 +56,7 @@
 <li>👶 31/05/2001</li>
 <li>✝️ Cristão</li>
 <li>🎓 Bacharel em Enganharia de Software - UNIVILLE</li>
-<li>👨🏻‍💻 Backend Developer</li>
+<li>👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert</li>
 <li>🏅 Estudante Embaixador da Microsoft</li>
 <li>🤓 Estudante de filosofia e economia</li>
 <li>💪 Apaixonado por esportes</li>
