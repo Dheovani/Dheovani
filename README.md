@@ -82,7 +82,7 @@
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/dheovani-xavier-da-cruz/" target="_blank" rel="nofollow">
     <img id="linkedin" target="_blank" alt="linkedin_icon"
          src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
