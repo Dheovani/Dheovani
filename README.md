@@ -14,43 +14,45 @@
 
 <div align="center" style="display: inline_block;"><br>
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript" />
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?labelColor=black&style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/-react-61DAFB?labelColor=black&style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron&logoColor=47848F" alt="electron" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=oracle&logoColor=F80000" alt="java" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/-electron-47848F?labelColor=black&style=for-the-badge&logo=electron&logoColor=47848F" alt="electron" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   
   <br>
   
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
+  <img src="https://img.shields.io/badge/-java-F80000?labelColor=black&style=for-the-badge&logo=oracle&logoColor=F80000" alt="java" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
+  <img src="https://img.shields.io/badge/-springboot-6DB33F?labelColor=black&style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel" />
+  <img src="https://img.shields.io/badge/-c%20lang-A8B9CC?labelColor=black&style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
+  <img src="https://img.shields.io/badge/-cplusplus-00599C?labelColor=black&style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   
   <br>
   
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/-php-777BB4?labelColor=black&style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/-laravel-FF2D20?labelColor=black&style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML 5" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/CSS%203-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS 3" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/-python-3776AB?labelColor=black&style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/-git-F05032?labelColor=black&style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/-github-181717?labelColor=black&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
 </div>
 
