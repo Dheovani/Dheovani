@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
