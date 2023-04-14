@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=FFFFFF& background=FEFF4C)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️& background=FEFF4C)](https://git.io/typing-svg)
 
 <br>
 
