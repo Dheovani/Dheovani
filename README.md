@@ -59,24 +59,25 @@
 <br>
 
 <div>
-<h2>👊 Sobre mim</h2>
-<ul>
-<li>👶 31/05/2001</li>
-<li>✝️ Cristão</li>
-<li>🎓 Bacharel em Enganharia de Software - UNIVILLE</li>
-<li>👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert</li>
-<li>🏅 Estudante Embaixador da Microsoft</li>
-<li>🤓 Estudante de filosofia e economia</li>
-<li>💪 Apaixonado por esportes</li>
-</ul>
+  <h2>👊 Sobre mim</h2>
+  <ul>
+    <li>👶 31/05/2001</li>
+    <li>✝️ Cristão</li>
+    <li>🎓 Bacharel em Enganharia de Software - UNIVILLE</li>
+    <li>👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert</li>
+    <li>🎮 Aspirante a Game Developer</li>
+    <li>🏅 Estudante Embaixador da Microsoft</li>
+    <li>🤓 Estudante de filosofia e economia</li>
+    <li>🏀 Apaixonado por esportes</li>
+  </ul>
 </div>
 
 <div>
-<h2>📖 Lendo</h2>
-<ul>
-<li>📑 The Theory Of Money And Credit ~ Ludwig Von Mises</li>
-<li>📑 A Bíblia Sagrada</li>
-</ul>
+  <h2>📖 Lendo</h2>
+  <ul>
+    <li>📑 The Theory Of Money And Credit ~ Ludwig Von Mises</li>
+    <li>📑 A Bíblia Sagrada</li>
+  </ul>
 </div>
 
 <br>
