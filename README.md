@@ -1,4 +1,4 @@
-# Oi, eu sou o Dheovani! :v:
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!&color=FFFFFF&repeat=false)](https://git.io/typing-svg)
 
 ![programmer](https://user-images.githubusercontent.com/79609196/232044491-55ac84ee-3edd-4250-9050-628d53b52511.gif)
 
