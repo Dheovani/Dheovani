@@ -9,36 +9,29 @@
 </div>
 
 <div style="display: inline_block;"><br>
-  <img align="center" alt="ecmascript" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="react_js" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="electron_js" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
-  <img align="center" alt="java" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="spring" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="c" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-  <img align="center" alt="cplusplus" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
-  <img align="center" alt="python" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
-    <img align="center" alt="php" height="70" width="80"
-       src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center" alt="laravel" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="git" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron&logoColor=47848F" alt="electron" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/java-black?style=for-the-badge" alt="java" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/cplusplus-black?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="laravel" />
+  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
 </div>
 
-<div><br>
-  <img align="center" alt="linux" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="windows" height="50" width="60"
-       src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-</div>
+<br>
 
 <div><br>
   <a href="https://www.linkedin.com/in/dheovani-xavier-da-cruz/" target="_blank" rel="nofollow">
