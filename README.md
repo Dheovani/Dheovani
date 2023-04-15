@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=FFFFFF)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=000000)](https://git.io/typing-svg#gh-light-mode-only)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=FFFFFF&repeat=false)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=000000&repeat=false)](https://git.io/typing-svg#gh-light-mode-only)
 
 <br>
 
