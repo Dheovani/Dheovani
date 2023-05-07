@@ -59,7 +59,7 @@
 - 🏀 Apaixonado por esportes
 
 ## 📖 Lendo
-- 📑 The Theory Of Money And Credit ~ Ludwig Von Mises
+- 📑 Satoshi
 - 📑 A Bíblia Sagrada
 
 ## 🎧 Ouvindo
