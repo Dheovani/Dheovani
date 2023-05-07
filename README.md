@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-springboot-6DB33F?labelColor=black&style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="springboot" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
-  <img src="https://img.shields.io/badge/-elasticsearch-005571?labelColor=black&style=for-the-badge&logo=elasticsearch&logoColor=005571" alt="elasticsearch" />
-  <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-c%20lang-A8B9CC?labelColor=black&style=for-the-badge&logo=c&logoColor=A8B9CC" alt="c" />
   <img src="https://img.shields.io/badge/---black?style=for-the-badge" alt="-" />
   <img src="https://img.shields.io/badge/-cplusplus-00599C?labelColor=black&style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="cplusplus" />
