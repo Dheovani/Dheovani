@@ -48,7 +48,6 @@
 
 ## 👊 Sobre mim
 - 👶 31/05/2001
-- ✝️ Cristão
 - 🎓 Bacharel em Enganharia de Software - UNIVILLE
 - 👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert
 - 🎮 Aspirante a Game Developer
