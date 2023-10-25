@@ -58,6 +58,7 @@
 ## 📖 Lendo
 - 📑 Os Inovadores ~ Walter Isaacson
 - 📑 A Divina Comédia: Inferno - Dante Alighieri
+- 📑 A Escolha Pública
 
 ## 🎧 Ouvindo
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dheovanixdc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
