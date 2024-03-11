@@ -2,7 +2,7 @@
 
 ## 👊 Sobre mim
 - 👶 31/05/2001
-- 🎓 [8/9] Bacharel em Enganharia de Software - UNIVILLE
+- 🎓 [9/9] Bacharel em Enganharia de Software - UNIVILLE
 - 👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert
 - 🤓 Estudante de programação, filosofia e economia
 - 🏀 Apaixonado por esportes
