@@ -1,35 +1,13 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=FFFFFF&repeat=false)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️&color=000000&repeat=false)](https://git.io/typing-svg#gh-light-mode-only)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i'm+Dheovani!+✌️&color=FFFFFF&repeat=false)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+i'm+Dheovani!+✌️&color=000000&repeat=false)](https://git.io/typing-svg#gh-light-mode-only)
 
-## 👊 Sobre mim
-- 👶 31/05/2001
-- 🎓 [9/9] Bacharel em Enganharia de Software - UNIVILLE
-- 👨🏻‍💻 Desenvolvedor Fullstack - SoftExpert
-- 🤓 Estudante de programação, filosofia e economia
-- 🏀 Apaixonado por esportes
+## 👊 About me
+- 🧠 Always trying to learn or do something new
+- 🎓 [9/9] Software Engineering Bachelor - UNIVILLE
+- 👨🏻‍💻 Experienced fullstack developer currently working on SoftExpert
 
-## 🎧 Ouvindo
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dheovanixdc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## Stack
+![Statck](https://skillicons.dev/icons?i=c,cpp,java,spring,js,ts,python)
+![Stack](https://skillicons.dev/icons?i=php,html,css,linux,postgres,docker,git)
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/Dheovani" />
-  <img height="200em"
-       src="https://github-readme-stats.vercel.app/api?username=Dheovani&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="200em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheovani&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dheovani-xavier-da-cruz/" target="_blank" rel="nofollow">
-    <img id="linkedin" target="_blank" alt="linkedin_icon"
-         src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:dheovani_xavier@outlook.com" target="_blank" rel="nofollow">
-    <img id="outlook" target="_blank" alt="outlook_icon"
-         src="https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</div>
+## Stats
+![Dheovani's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheovani&theme=github_dark)
