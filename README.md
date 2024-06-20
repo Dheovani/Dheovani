@@ -5,8 +5,5 @@
 - 🎓 [9/9] Software Engineering Bachelor - UNIVILLE
 - 👨🏻‍💻 Experienced fullstack developer currently working on SoftExpert
 
-## Stack
+## 📚 Stack
 ![Statck](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,ts,react,python,linux,docker,git)
-
-## Stats
-![Dheovani's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheovani&theme=github_dark)
