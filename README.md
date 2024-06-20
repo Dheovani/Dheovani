@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️;Hi,+i'm+Dheovani!+✌️&color=FFFFFF&repeat=true)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️;Hi+i'm+Dheovani!+✌️&color=000000&repeat=false)](https://git.io/typing-svg#gh-light-mode-only)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️;Hi,+i'm+Dheovani!+✌️&color=FFFFFF&repeat=true)](https://git.io/typing-svg#gh-dark-mode-only) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+eu+sou+o+Dheovani!+✌️;Hi+i'm+Dheovani!+✌️&color=000000&repeat=true)](https://git.io/typing-svg#gh-light-mode-only)
 
 ## 👊 About me
 - 🧠 Always trying to learn or do something new
