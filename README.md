@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Experienced fullstack developer currently working on SoftExpert
 
 ## Stack
-![Statck](https://skillicons.dev/icons?i=c,cpp,java,spring,js,ts,python,php,html,css,linux,postgres,docker,git)
+![Statck](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,ts,react,python,linux,docker,git)
 
 ## Stats
 ![Dheovani's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheovani&theme=github_dark)
