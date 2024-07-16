@@ -2,8 +2,8 @@
 
 ## 👊 About me
 - 🧠 Always trying to learn or do something new
-- 🎓 [9/9] Software Engineering Bachelor - UNIVILLE
+- 🎓 Software Engineering Bachelor - UNIVILLE, 2024
 - 👨🏻‍💻 Experienced fullstack developer currently working on SoftExpert
 
 ## 📚 Stack
-![Statck](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,ts,react,python,linux,docker,git)
+![Statck](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,ts,react,python,git,docker)
