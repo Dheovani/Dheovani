@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ## 🧭 About me
 
@@ -19,7 +19,7 @@ I'm a software developer focused on building well-structured applications, funct
 - 🤖 Postgraduate Certificate in Artificial Intelligence and Data Analysis — Facuvale
 - 👨🏻‍💻 Software Engineer — SoftExpert
 
----
+
 
 ## 🧰 Main stack
 
@@ -39,18 +39,19 @@ I'm a software developer focused on building well-structured applications, funct
 
 </div>
 
----
+
 
 ## 🚀 Current interests
 
 ```txt
 C/C++ for desktop applications and lightweight systems
 TypeScript, React, Next.js, and Astro for the web
-Software architecture, databases, and best practices
+Software architecture, especially data and serverless
+C/Python for robotics and AI development
 AI applied to real-world products
 ```
 
----
+
 
 <div align="center">
 
