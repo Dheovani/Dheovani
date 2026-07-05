@@ -52,20 +52,6 @@ AI applied to real-world products
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheovani&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github#gh-dark-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheovani&show_icons=true&hide_border=true&theme=default&rank_icon=github#gh-light-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheovani&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheovani&layout=compact&hide_border=true&theme=default#gh-light-mode-only)
-
-</div>
-
----
-
 <div align="center">
 
 ### “Build simple. Think deeply. Improve constantly.”
