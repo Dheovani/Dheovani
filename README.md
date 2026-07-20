@@ -35,7 +35,7 @@ I'm a software developer focused on building well-structured applications, funct
 
 ### Backend, desktop & tools
 
-![Backend and tools](https://skillicons.dev/icons?i=spring,nodejs,qt,docker,git,github,postgres)
+![Backend and tools](https://skillicons.dev/icons?i=spring,nodejs,qt,net,docker,git,github,postgres)
 
 </div>
 
