@@ -41,20 +41,9 @@ I'm a software developer focused on building well-structured applications, funct
 
 
 
-## 🚀 Current interests
+## 🚀 Ongoing projects
 
-```txt
-C/C++ for desktop applications and lightweight systems
-TypeScript, React, Next.js, and Astro for the web
-Software architecture, especially data and serverless
-C/Python for robotics and AI development
-AI applied to real-world products
+```md
+- Uburu [v0.1.0]: A C++/Qt desktop application for fast, advanced search across local files and software repositories.
+- RobotStudio [v1.0.0]: An educational robotics and C#/.NET platform for scripting, simulating, and visualizing robot systems in 3D.
 ```
-
-
-
-<div align="center">
-
-### “Build simple. Think deeply. Improve constantly.”
-
-</div>
