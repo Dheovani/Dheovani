@@ -8,8 +8,6 @@
 
 </div>
 
-
-
 ## 🧭 About me
 
 I'm a software developer focused on building well-structured applications, functional interfaces, and solutions that bring together engineering, product thinking, and good user experience.
@@ -18,8 +16,6 @@ I'm a software developer focused on building well-structured applications, funct
 - 🏛️ Postgraduate Certificate in Software Architecture — Facuvale
 - 🤖 Postgraduate Certificate in Artificial Intelligence and Data Analysis — Facuvale
 - 👨🏻‍💻 Software Engineer — SoftExpert
-
-
 
 ## 🧰 Main stack
 
@@ -39,11 +35,37 @@ I'm a software developer focused on building well-structured applications, funct
 
 </div>
 
-
-
 ## 🚀 Ongoing projects
 
-```md
-- Uburu [v0.1.0]: A C++/Qt desktop application for fast, advanced search across local files and software repositories.
-- RobotStudio [v1.0.0]: An educational robotics and C#/.NET platform for scripting, simulating, and visualizing robot systems in 3D.
-```
+<p>
+  <a href="https://github.com/Dheovani/comrad-bot">
+    <img alt="ComradBot" src="https://img.shields.io/badge/ComradBot-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/comrad-bot/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/comrad-bot/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/comrad-bot/actions/workflows/codeql.yml">
+    <img alt="CodeQL" src="https://img.shields.io/github/actions/workflow/status/Dheovani/comrad-bot/codeql.yml?branch=main&style=for-the-badge&label=CodeQL&logo=github&logoColor=white">
+  </a>
+  <a href="https://hub.docker.com/r/theovani/comradbot">
+    <img alt="Docker Hub" src="https://img.shields.io/docker/v/theovani/comradbot?sort=semver&style=for-the-badge&label=Docker%20Hub&logo=docker&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Dheovani/robot-studio">
+    <img alt="RobotStudio" src="https://img.shields.io/badge/RobotStudio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/robot-studio/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/robot-studio/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Dheovani/uburu">
+    <img alt="Uburu" src="https://img.shields.io/badge/Uburu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/uburu/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+</p>
