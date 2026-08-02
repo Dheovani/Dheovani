@@ -1,3 +1,8 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheovani&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=86400&v=2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheovani&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400&v=2)
+
+
 <div align="center">
 
 # Dheovani Xavier da Cruz
