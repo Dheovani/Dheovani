@@ -37,22 +37,7 @@ I'm a software developer focused on building well-structured applications, funct
 
 ## 🚀 Ongoing projects
 
-<div align="center">
-  <p>
-    <a href="https://github.com/Dheovani/comrad-bot">
-      <img alt="ComradBot" src="https://img.shields.io/badge/ComradBot-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    <a href="https://github.com/Dheovani/comrad-bot/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/comrad-bot?style=for-the-badge&label=release">
-    </a>
-    <a href="https://github.com/Dheovani/comrad-bot/actions/workflows/ci.yml">
-      <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/comrad-bot/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
-    </a>
-    <a href="https://hub.docker.com/r/theovani/comradbot">
-      <img alt="Docker Hub" src="https://img.shields.io/docker/v/theovani/comradbot?sort=semver&style=for-the-badge&label=Docker%20Hub&logo=docker&logoColor=white">
-    </a>
-  </p>
-  
+<div align="center"> 
   <p>
     <a href="https://github.com/Dheovani/robot-studio">
       <img alt="RobotStudio" src="https://img.shields.io/badge/RobotStudio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -74,6 +59,18 @@ I'm a software developer focused on building well-structured applications, funct
     </a>
     <a href="https://github.com/Dheovani/uburu/actions/workflows/ci.yml">
       <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/Dheovani/worm">
+      <img alt="Worm" src="https://img.shields.io/badge/Worm-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    </a>
+    <a href="https://github.com/Dheovani/worm/releases/latest">
+      <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/worm?style=for-the-badge&label=release">
+    </a>
+    <a href="https://github.com/Dheovani/worm/actions/workflows/ci.yml">
+      <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
     </a>
   </p>
 </div>
