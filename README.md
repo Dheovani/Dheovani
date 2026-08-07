@@ -8,7 +8,11 @@
 
 </div>
 
+<div align="center">
+  
 ## 🧭 About me
+
+</div>
 
 I'm a software developer focused on building well-structured applications, functional interfaces, and solutions that bring together engineering, product thinking, and good user experience.
 
@@ -17,13 +21,13 @@ I'm a software developer focused on building well-structured applications, funct
 - 🤖 Postgraduate Certificate in Artificial Intelligence and Data Analysis — Facuvale
 - 👨🏻‍💻 Software Engineer — SoftExpert
 
-## 🧰 Main stack
-
 <div align="center">
+
+## 🧰 Main stack
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,php)
 
 ### Frontend
 
@@ -35,42 +39,44 @@ I'm a software developer focused on building well-structured applications, funct
 
 </div>
 
+<div align="center">
+
 ## 🚀 Ongoing projects
 
-<div align="center"> 
-  <p>
-    <a href="https://github.com/Dheovani/robot-studio">
-      <img alt="RobotStudio" src="https://img.shields.io/badge/RobotStudio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-    </a>
-    <a href="https://github.com/Dheovani/robot-studio/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/robot-studio?style=for-the-badge&label=release">
-    </a>
-    <a href="https://github.com/Dheovani/robot-studio/actions/workflows/ci.yml">
-      <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/robot-studio/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://github.com/Dheovani/uburu">
-      <img alt="Uburu" src="https://img.shields.io/badge/Uburu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    </a>
-    <a href="https://github.com/Dheovani/uburu/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/uburu?style=for-the-badge&label=release">
-    </a>
-    <a href="https://github.com/Dheovani/uburu/actions/workflows/ci.yml">
-      <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/Dheovani/robot-studio">
+    <img alt="RobotStudio" src="https://img.shields.io/badge/RobotStudio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/robot-studio/releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/robot-studio?style=for-the-badge&label=release">
+  </a>
+  <a href="https://github.com/Dheovani/robot-studio/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/robot-studio/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+</p>
 
-  <p>
-    <a href="https://github.com/Dheovani/worm">
-      <img alt="Worm" src="https://img.shields.io/badge/Worm-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    </a>
-    <a href="https://github.com/Dheovani/worm/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/worm?style=for-the-badge&label=release">
-    </a>
-    <a href="https://github.com/Dheovani/worm/actions/workflows/ci.yml">
-      <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/Dheovani/uburu">
+    <img alt="Uburu" src="https://img.shields.io/badge/Uburu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/uburu/releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/uburu?style=for-the-badge&label=release">
+  </a>
+  <a href="https://github.com/Dheovani/uburu/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Dheovani/worm">
+    <img alt="Worm" src="https://img.shields.io/badge/Worm-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </a>
+  <a href="https://github.com/Dheovani/worm/releases/latest">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/worm?style=for-the-badge&label=release">
+  </a>
+  <a href="https://github.com/Dheovani/worm/actions/workflows/ci.yml">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  </a>
+</p>
+
 </div>
