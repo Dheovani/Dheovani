@@ -48,7 +48,7 @@ I'm a software developer focused on building well-structured applications, funct
     <img alt="RobotStudio" src="https://img.shields.io/badge/RobotStudio-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
   <a href="https://github.com/Dheovani/robot-studio/releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/robot-studio?style=for-the-badge&label=release">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/robot-studio?style=for-the-badge&label=release&logo=artifacthub&logoColor=white">
   </a>
   <a href="https://github.com/Dheovani/robot-studio/actions/workflows/ci.yml">
     <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/robot-studio/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
@@ -60,10 +60,10 @@ I'm a software developer focused on building well-structured applications, funct
     <img alt="Uburu" src="https://img.shields.io/badge/Uburu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   </a>
   <a href="https://github.com/Dheovani/uburu/releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/uburu?style=for-the-badge&label=release">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/uburu?style=for-the-badge&label=release&logo=artifacthub&logoColor=white">
   </a>
   <a href="https://github.com/Dheovani/uburu/actions/workflows/ci.yml">
-    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/uburu/ci.yml?branch=master&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
   </a>
 </p>
 
@@ -71,11 +71,11 @@ I'm a software developer focused on building well-structured applications, funct
   <a href="https://github.com/Dheovani/worm">
     <img alt="Worm" src="https://img.shields.io/badge/Worm-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   </a>
-  <a href="https://github.com/Dheovani/worm/releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/Dheovani/worm?style=for-the-badge&label=release">
+  <a href="https://github.com/Dheovani/worm/actions/workflows/unit-tests.yml">
+    <img alt="Unit tests" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/unit-tests.yml?branch=main&style=for-the-badge&label=tests&logo=githubactions&logoColor=white">
   </a>
-  <a href="https://github.com/Dheovani/worm/actions/workflows/ci.yml">
-    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white">
+  <a href="https://github.com/Dheovani/worm/actions/workflows/code-quality.yml">
+    <img alt="Code quality" src="https://img.shields.io/github/actions/workflow/status/Dheovani/worm/code-quality.yml?branch=main&style=for-the-badge&label=quality&logo=githubactions&logoColor=white">
   </a>
 </p>
 
